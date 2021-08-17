@@ -102,7 +102,7 @@ I have followed this roadmap during my post-grad Data Science course and it has 
   - Factor Analysis
   - Logistic Regression
 
-# Linear Algebra Roadmap
+# B. Linear Algebra Roadmap
 
 - LINEAR EQUATIONS
   - Systems of Linear Equations
@@ -157,7 +157,7 @@ I have followed this roadmap during my post-grad Data Science course and it has 
   - Singular Value Decomposition
   - Principal Component Analysis
 
-# Calculus Roadmap
+# C. Calculus Roadmap
 
 - CALCULUS BASICS
   - Functions
